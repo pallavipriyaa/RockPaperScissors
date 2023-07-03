@@ -1,7 +1,7 @@
 # RockPaperScissors
 Rock Paper Scissors is a game. I've created this mini project just for practicing web development.
 
-Rock Paper Scissors is a game and I am sure you must have played it once in your life. 
+Rock Paper Scissors is a game and I am sure you must have played it once in your life.
 
 If not let me tell you the rules, they are:
 
